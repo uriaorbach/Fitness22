@@ -1,0 +1,4 @@
+.recipe-list {
+  display: flex;
+  gap: 8rem;
+}
